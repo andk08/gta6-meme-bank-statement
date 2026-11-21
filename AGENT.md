@@ -15,6 +15,11 @@ node main.ts`, exit 0, `out/POST.json` byte-identical) and again as user
 revision; it is replaced with the real X post address after posting,
 before submit.
 
+Update: the meme is posted from @blacteamy0108 at
+https://x.com/blacteamy0108/status/2124194817064448414 and that address
+is now in `POST.json`. This is the last of three GTA 6 meme entries, so
+it is the entrant's final entry for the bounty.
+
 # Your job, in one page
 
 You are entering make.fun's GTA 6 meme bounty: make one meme about GTA 6 (Rockstar's Grand Theft Auto VI, out this week)
